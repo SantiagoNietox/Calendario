@@ -127,9 +127,9 @@ public class Dashboard extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton ButtonCalendar;
-    private javax.swing.JButton ButtonInicio;
-    private javax.swing.JPanel PanelContainer;
-    private javax.swing.JPanel PanelMenu;
+    public javax.swing.JButton ButtonCalendar;
+    public javax.swing.JButton ButtonInicio;
+    public javax.swing.JPanel PanelContainer;
+    public javax.swing.JPanel PanelMenu;
     // End of variables declaration//GEN-END:variables
 }

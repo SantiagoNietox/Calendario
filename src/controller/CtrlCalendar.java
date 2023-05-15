@@ -5,13 +5,10 @@
  */
 package controller;
 
-
 /**
  *
  * @author Santiago Nieto
  */
-
-
-public class CalendarioControlador {
+public class CtrlCalendar {
     
 }
